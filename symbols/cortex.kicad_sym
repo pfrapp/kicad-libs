@@ -6,7 +6,7 @@
     (property "Value" "TM4C123G_EvalBoard" (at -2.54 -19.05 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "imu-and-cortex:TM4C123G_EvalBoard" (at -2.54 0 0)
+    (property "Footprint" "cortex:TM4C123G_EvalBoard" (at -2.54 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at -2.54 0 0)
