@@ -13,3 +13,4 @@ You can find this repository locally under
 ~/work/pcb_design/kicad-libs
 ```
 
+At least if you are Philipp 😉
