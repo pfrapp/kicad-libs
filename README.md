@@ -35,6 +35,12 @@ At least if you are Philipp 😉
     (needs soldering)
   * For holding the probe in your hand: Symbol `TestPoint`, Footprint `TestPoint:TestPoint_Pad_2.0x2.0mm`
     (without soldering)
+* Mounting holes
+  * M3
+  * Actual hole in `Edge.Cuts` with radius 1.9 mm
+  * Courtyard with radius 3.5 mm
+  * "M3" label in `F.Silkscreen`
+* Bar (for "not") in text is achieved via `~{CS}`
 
 ## Overview
 
