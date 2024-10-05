@@ -29,7 +29,7 @@ At least if you are Philipp 😉
 ## General notes
 
 * For the resistors I usually use the P10.16 version (that is, the mounting holes are 4 x 2.54 mm apart)
-
+* There is an overview about [standard PCB reference designators](https://www.ultralibrarian.com/2021/07/07/standard-pcb-reference-designators-to-know-ulc)
 
 ## Overview
 
