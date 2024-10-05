@@ -30,6 +30,11 @@ At least if you are Philipp 😉
 
 * For the resistors I usually use the P10.16 version (that is, the mounting holes are 4 x 2.54 mm apart)
 * There is an overview about [standard PCB reference designators](https://www.ultralibrarian.com/2021/07/07/standard-pcb-reference-designators-to-know-ulc)
+* Testpoints
+  * For firmly attaching a scope probe: Symbol `TestPoint`, Footprint `TestPoint:TestPoint_Plated_Hole_D2.0mm`
+    (needs soldering)
+  * For holding the probe in your hand: Symbol `TestPoint`, Footprint `TestPoint:TestPoint_Pad_2.0x2.0mm`
+    (without soldering)
 
 ## Overview
 
