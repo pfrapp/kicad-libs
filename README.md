@@ -28,7 +28,10 @@ At least if you are Philipp 😉
 
 ## General notes
 
-* For the resistors I usually use the P10.16 version (that is, the mounting holes are 4 x 2.54 mm apart)
+* For the resistors I usually use the P10.16 version (that is, the mounting holes are 4 x 2.54 mm apart),
+  footprint `Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal`
+* THT caps
+  * 100 nF (104) have footprint `Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm`
 * There is an overview about [standard PCB reference designators](https://www.ultralibrarian.com/2021/07/07/standard-pcb-reference-designators-to-know-ulc)
 * Testpoints
   * For firmly attaching a scope probe: Symbol `TestPoint`, Footprint `TestPoint:TestPoint_Plated_Hole_D2.0mm`
