@@ -86,4 +86,5 @@ This is my high-current bread-and-butter OpAmp.
 Currently available versions
 * 1x02, order e.g. at [Reichelt](https://www.reichelt.de/printstecker-einzelstecker-gerade-2-polig-pss-254-2g-p14907.html?search=PSS+254%2F2G) with article no. `PSS 254/2G`
 * 1x03, order e.g. at [Reichelt](https://www.reichelt.de/printstecker-einzelstecker-gerade-3-polig-pss-254-3g-p14462.html?&trstct=pos_0&nbc=1) with article no. `PSS 254/3G`
+* 1x04, order e.g. at [Reichelt](https://www.reichelt.de/printstecker-einzelstecker-gerade-4-polig-pss-254-4g-p696.html?search=PSS+254%2F4G) with article no. `PSS 254/4G`
 
