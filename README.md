@@ -58,3 +58,12 @@ Facts and figures: 80 MHz, 256 KB Flash storage, 32 KB RAM, ca. 10 Euros per pie
 
 Datasheet:
 https://www.ti.com/product/TM4C123GH6PM
+
+### OpAmp 4556
+
+This is my high-current bread-and-butter OpAmp.
+
+* Symbol `Amplifier_Operational:NJM4556A`
+* Package `Package_DIP:DIP-8_W7.62mm` (for THT)
+* Order for instance at [Reichelt](https://www.reichelt.de/operationsverstaerker-2-fach-dip-8-njm-4556-d-p13470.html?search=NJM+4556+D) with article no. `NJM 4556 D`
+
