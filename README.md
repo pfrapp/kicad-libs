@@ -5,6 +5,17 @@ KiCad Symbols and Footprints for my PCBs
 
 In this repository, I want to store the symbols and footprints
 which I designed for my projects.
+I also add some general notes, hints, and tips.
+
+The official KiCad tutoral about creating [custom symbols and footprints](https://docs.kicad.org/8.0/en/getting_started_in_kicad/getting_started_in_kicad.html#tutorial_part_4_custom_symbols_and_footprints)
+is quite helpful.
+Main takeaways
+  * Symbol pins must always be aligned on a 1.27 mm (50 mil) grid
+  * The exact outline is drawn on `F.Fab`, a slightly larger outline
+    on `F.Silkscreen`, and the `F.Courtyard` surrounds the entire footprint
+  * Distance `F.Fab` to `F.Silkscreen` should be 0.11 mm
+  * Distance `F.Fab` to `F.Courtyard` should be 0.25 mm
+
 
 ## Local folder
 
@@ -15,7 +26,15 @@ You can find this repository locally under
 
 At least if you are Philipp 😉
 
+## General notes
+
+* For the resistors I usually use the P10.16 version (that is, the mounting holes are 4 x 2.54 mm apart)
+
+
 ## Overview
+
+Below is an overview of non-standard parts that are actually
+standard for me as I use them so often.
 
 ### Cortex M4 TM4C123G Evaluation Board
 
