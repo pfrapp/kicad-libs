@@ -12,6 +12,18 @@
     (property "Datasheet" "" (at -2.54 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (symbol "printstecker_1x03_0_1"
+      (polyline
+        (pts
+          (xy 0 3.048)
+          (xy -0.5058 3.048)
+          (xy -0.5058 2.032)
+          (xy 0 2.032)
+        )
+        (stroke (width 0.1524) (type default))
+        (fill (type none))
+      )
+    )
     (symbol "printstecker_1x03_1_1"
       (arc (start 0 -2.032) (mid -0.5058 -2.54) (end 0 -3.048)
         (stroke (width 0.1524) (type default))
@@ -42,10 +54,6 @@
         (fill (type none))
       )
       (arc (start 0 0.508) (mid -0.5058 0) (end 0 -0.508)
-        (stroke (width 0.1524) (type default))
-        (fill (type none))
-      )
-      (arc (start 0 3.048) (mid -0.5058 2.54) (end 0 2.032)
         (stroke (width 0.1524) (type default))
         (fill (type none))
       )
