@@ -50,6 +50,10 @@ At least if you are Philipp 😉
   * "M3" label in `F.Silkscreen`
   * Distance to edge: 4 mm
 * Bar (for "not") in text is achieved via `~{CS}`
+* Regular connectors (pin headers) have the symbols and footprints
+  * 2 Pins: Symbol `Conn_01x02_Socket`, footprint `Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical`
+  * 3 Pins: Symbol `Conn_01x03_Socket`, footprint `Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical`
+  * 4 Pins: Symbol `Conn_01x04_Socket`, footprint `Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical`
 
 ## Overview
 
