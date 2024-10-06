@@ -28,7 +28,15 @@ At least if you are Philipp 😉
 
 ## General notes
 
-* For the resistors I usually use the P10.16 version (that is, the mounting holes are 4 x 2.54 mm apart)
+* For the resistors I usually use the P10.16 version (that is, the mounting holes are 4 x 2.54 mm apart),
+  footprint `Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal`
+* THT caps
+  * 100 nF (104) have footprint `Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm`
+* THT diodes
+  * 5 mm has footprint `LED_THT:LED_D5.0mm`
+  * Series resistors
+    * 820 Ohm for 6 Volt
+    * 3.9k for 12 Volt
 * There is an overview about [standard PCB reference designators](https://www.ultralibrarian.com/2021/07/07/standard-pcb-reference-designators-to-know-ulc)
 * Testpoints
   * For firmly attaching a scope probe: Symbol `TestPoint`, Footprint `TestPoint:TestPoint_Plated_Hole_D2.0mm`
@@ -40,7 +48,12 @@ At least if you are Philipp 😉
   * Actual hole in `Edge.Cuts` with radius 1.9 mm
   * Courtyard with radius 3.5 mm
   * "M3" label in `F.Silkscreen`
+  * Distance to edge: 4 mm
 * Bar (for "not") in text is achieved via `~{CS}`
+* Regular connectors (pin headers) have the symbols and footprints
+  * 2 Pins: Symbol `Conn_01x02_Socket`, footprint `Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical`
+  * 3 Pins: Symbol `Conn_01x03_Socket`, footprint `Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical`
+  * 4 Pins: Symbol `Conn_01x04_Socket`, footprint `Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical`
 
 ## Overview
 
@@ -83,4 +96,5 @@ This is my high-current bread-and-butter OpAmp.
 Currently available versions
 * 1x02, order e.g. at [Reichelt](https://www.reichelt.de/printstecker-einzelstecker-gerade-2-polig-pss-254-2g-p14907.html?search=PSS+254%2F2G) with article no. `PSS 254/2G`
 * 1x03, order e.g. at [Reichelt](https://www.reichelt.de/printstecker-einzelstecker-gerade-3-polig-pss-254-3g-p14462.html?&trstct=pos_0&nbc=1) with article no. `PSS 254/3G`
+* 1x04, order e.g. at [Reichelt](https://www.reichelt.de/printstecker-einzelstecker-gerade-4-polig-pss-254-4g-p696.html?search=PSS+254%2F4G) with article no. `PSS 254/4G`
 
