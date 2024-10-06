@@ -32,6 +32,11 @@ At least if you are Philipp 😉
   footprint `Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal`
 * THT caps
   * 100 nF (104) have footprint `Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm`
+* THT diodes
+  * 5 mm has footprint `LED_THT:LED_D5.0mm`
+  * Series resistors
+    * 820 Ohm for 6 Volt
+    * 3.9k for 12 Volt
 * There is an overview about [standard PCB reference designators](https://www.ultralibrarian.com/2021/07/07/standard-pcb-reference-designators-to-know-ulc)
 * Testpoints
   * For firmly attaching a scope probe: Symbol `TestPoint`, Footprint `TestPoint:TestPoint_Plated_Hole_D2.0mm`
@@ -43,6 +48,7 @@ At least if you are Philipp 😉
   * Actual hole in `Edge.Cuts` with radius 1.9 mm
   * Courtyard with radius 3.5 mm
   * "M3" label in `F.Silkscreen`
+  * Distance to edge: 4 mm
 * Bar (for "not") in text is achieved via `~{CS}`
 
 ## Overview
