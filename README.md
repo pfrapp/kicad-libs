@@ -83,6 +83,10 @@ Facts and figures: 80 MHz, 256 KB Flash storage, 32 KB RAM, ca. 10 Euros per pie
 Datasheet:
 https://www.ti.com/product/TM4C123GH6PM
 
+The footprint has been taken over from
+`Package_QFP:LQFP-64_10x10mm_P0.5mm`.
+I copied it in order to being able to adapt it if necessary.
+
 ### OpAmp 4556
 
 This is my high-current bread-and-butter OpAmp.
