@@ -98,3 +98,11 @@ Currently available versions
 * 1x03, order e.g. at [Reichelt](https://www.reichelt.de/printstecker-einzelstecker-gerade-3-polig-pss-254-3g-p14462.html?&trstct=pos_0&nbc=1) with article no. `PSS 254/3G`
 * 1x04, order e.g. at [Reichelt](https://www.reichelt.de/printstecker-einzelstecker-gerade-4-polig-pss-254-4g-p696.html?search=PSS+254%2F4G) with article no. `PSS 254/4G`
 
+## Parts and distributor overview
+
+| Part           | Type       | Solder type | Distributor | Article no.    | Symbol | Package | Custom part |
+|----------------|------------|-------------|-------------|----------------|--------|---------|-------------|
+|                | Resistor   | THT         | Reichelt    | 122345         | bla    | blubb   | no          |
+|                | Cap        | THT         | Reichelt    | 456789         | bla    | blubb   | no          |
+| TM4C123GH6PMI7 | uC         | SMD         | DigiKey     | 296-44987-ND   | bla    | blubb   | yes         |
+|                | Connector  | SMD         | Mouser      |                | bla    | blubb   | yes         |
