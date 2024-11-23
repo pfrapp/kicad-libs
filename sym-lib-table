@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "cortex")(type "KiCad")(uri "${KIPRJMOD}/symbols/cortex.kicad_sym")(options "")(descr ""))
   (lib (name "connectors")(type "KiCad")(uri "${KIPRJMOD}/symbols/connectors.kicad_sym")(options "")(descr ""))
+  (lib (name "passive")(type "KiCad")(uri "${KIPRJMOD}/symbols/passive.kicad_sym")(options "")(descr ""))
 )
