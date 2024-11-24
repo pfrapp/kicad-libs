@@ -40,6 +40,7 @@ At least if you are Philipp 😉
 * SMD parts
   * Resistors: 0805 `Resistor_SMD:R_0805_2012Metric`
   * Capacitors: 0805 `Capacitor_SMD:C_0805_2012Metric`
+  * LEDs: 0850 `LED_SMD:LED_0805_2012Metric`
 * There is an overview about [standard PCB reference designators](https://www.ultralibrarian.com/2021/07/07/standard-pcb-reference-designators-to-know-ulc)
 * Testpoints
   * For firmly attaching a scope probe: Symbol `TestPoint`, Footprint `TestPoint:TestPoint_Plated_Hole_D2.0mm`
