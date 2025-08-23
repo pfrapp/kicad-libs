@@ -1,5 +1,6 @@
 (sym_lib_table
   (version 7)
+  (lib (name "active")(type "KiCad")(uri "${KIPRJMOD}/symbols/active.kicad_sym")(options "")(descr ""))
   (lib (name "cortex")(type "KiCad")(uri "${KIPRJMOD}/symbols/cortex.kicad_sym")(options "")(descr ""))
   (lib (name "connectors")(type "KiCad")(uri "${KIPRJMOD}/symbols/connectors.kicad_sym")(options "")(descr ""))
   (lib (name "electrical")(type "KiCad")(uri "${KIPRJMOD}/symbols/electrical.kicad_sym")(options "")(descr ""))
