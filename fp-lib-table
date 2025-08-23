@@ -2,5 +2,6 @@
   (version 7)
   (lib (name "cortex")(type "KiCad")(uri "${KIPRJMOD}/footprints/cortex.pretty")(options "")(descr ""))
   (lib (name "connectors")(type "KiCad")(uri "${KIPRJMOD}/footprints/connectors.pretty")(options "")(descr ""))
+  (lib (name "electrical")(type "KiCad")(uri "${KIPRJMOD}/footprints/electrical.pretty")(options "")(descr ""))
   (lib (name "passive")(type "KiCad")(uri "${KIPRJMOD}/footprints/passive.pretty")(options "")(descr ""))
 )
