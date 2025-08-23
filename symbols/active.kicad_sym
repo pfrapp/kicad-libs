@@ -6,7 +6,7 @@
     (property "Value" "2N2222" (at 8.763 -1.27 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "controller:2N2222" (at -5.08 0 0)
+    (property "Footprint" "active:2N2222" (at -5.08 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at -5.08 0 0)
